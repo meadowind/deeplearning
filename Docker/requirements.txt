@@ -1,0 +1,8 @@
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+streamlit
+matplotlib
+scikit-learn
+pillow
+numpy
+opencv-python-headless
