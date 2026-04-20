@@ -1,7 +1,8 @@
-tensorflow>=2.10.0
-opencv-python
-scikit-learn
-scikit-image
-matplotlib
-pandas
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
 streamlit
+matplotlib
+scikit-learn
+pillow
+numpy
+opencv-python-headless

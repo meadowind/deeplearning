@@ -1,0 +1,6 @@
+===== FINAL TEST RESULTS =====
+Model Name    : ResNet18
+Augmentation  : False
+Test Loss     : 0.1589
+Test Accuracy : 0.9743
+Test Macro F1 : 0.9598
